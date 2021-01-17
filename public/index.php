@@ -13,7 +13,7 @@
 
 <body>
 	<header>
-		<h1>PMDB - Project List</h1>
+		<h1>PMDB - Project New List</h1>
 	</header>
 
 <div id="content">
